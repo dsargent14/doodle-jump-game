@@ -1,20 +1,22 @@
 .gameboard {
     width: 400px;
     height: 600px;
-    background-color: rgb(218, 36, 23);
+    background-color: gold;
     position: relative;
+    font-size: 200px;
+    text-align: center;
 }
 
 .doodler {
     width: 60px;
     height: 85px;
-    background-color: rgb(21, 214, 47);
+    background-color: black;
     position: absolute;
 }
 
 .platform {
     width: 85px;
     height: 15px;
-    background-color: blue;
+    background-color: white;
     position: absolute;
 }
