@@ -2,4 +2,3 @@ This is my own replica version of the classic doodle jump game complete with sco
 
 Please enjoy and Share 
 
-Idea from FreeCodeCamp.org 
